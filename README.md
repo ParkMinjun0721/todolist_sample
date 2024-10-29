@@ -1,16 +1,13 @@
 # todolist
 
-A new Flutter project.
+Firebase 학습을 위한 Sample Code 입니다.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+현재 TA의 Firebase와 연결되어있는 상태입니다.
 
-A few resources to get you started if this is your first Flutter project:
+해당 코드를 자신의 Firebase Project와 연결시켜보며 학습해보시길 바랍니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+'''
+flutterfire configure
+'''
