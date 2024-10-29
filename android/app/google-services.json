@@ -1,65 +1,26 @@
 {
   "project_info": {
-    "project_number": "640602036640",
-    "project_id": "todolist-sample-606d0",
-    "storage_bucket": "todolist-sample-606d0.appspot.com"
+    "project_number": "76478865327",
+    "project_id": "todolistsample-2e185",
+    "storage_bucket": "todolistsample-2e185.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:640602036640:android:eccd444e717a54683d2cc5",
+        "mobilesdk_app_id": "1:76478865327:android:8c82f16f82505ad2d4195a",
         "android_client_info": {
           "package_name": "com.example.todolist"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "640602036640-d9sr3svmrav7vsqiofafvj13en7pqvv4.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAORz1fuefkBXuiwhOBidrGPMht6bjCR4U"
+          "current_key": "AIzaSyDWXWYnCjrOAWOO7CcvYFNmfuCJ3lNjXRU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "640602036640-d9sr3svmrav7vsqiofafvj13en7pqvv4.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:640602036640:android:5c7caa33ce4f77bc3d2cc5",
-        "android_client_info": {
-          "package_name": "com.example.todolist_sample"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "640602036640-d9sr3svmrav7vsqiofafvj13en7pqvv4.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAORz1fuefkBXuiwhOBidrGPMht6bjCR4U"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "640602036640-d9sr3svmrav7vsqiofafvj13en7pqvv4.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
